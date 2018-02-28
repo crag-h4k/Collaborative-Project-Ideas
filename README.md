@@ -1,14 +1,14 @@
 # Ideas for hackathons,workshops, and programming and tech projects.
 
-## Hackathon Ideas
+## Hackathons 
 
 ## Projects
 
-### Infosec
+#### Infosec
 basic rootkit
 automated respam caller 
 
-### Embedded Systems
+#### Embedded Systems
 Barbell Velocity Tracker - open source version
 Like this [OpenBarbell](http://squatsandscience.com/) or this [Bar Sensei](https://assess2perform.com/collections/frontpage)
 
