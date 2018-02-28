@@ -1,4 +1,4 @@
-# Ideas for hackathons,workshops, and programming and tech projects.
+## Put your ideas for hackathons, workshops, and programming and tech projects here.
 
 ## Hackathons 
 
