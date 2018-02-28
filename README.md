@@ -12,8 +12,8 @@ automated respam caller
 Barbell Velocity Tracker - open source version
 Like this [OpenBarbell](http://squatsandscience.com/) or this [Bar Sensei](https://assess2perform.com/collections/frontpage)
 
-#### Tech Learning
+## Tech Learning
 
-#### CTFs
+## CTFs
 
-#### Coding Projects
+## Coding Projects
